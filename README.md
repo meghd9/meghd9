@@ -7,11 +7,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software Developer focused on delivering solutions that prioritise user needs and exceptional design<br>🎨 Learning about new technologies and frameworks<br>💭 Enjoys bringing ideas to life, tackling complex problems and learning through each project</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<p align="left">👨‍💻 Software Developer focused on delivering solutions that prioritise user needs and exceptional design<br><p><p/>🎨 Learning about new technologies and frameworks<br><p><p/>💭 Enjoys bringing ideas to life, tackling complex problems and learning through each project</p>
 
 ###
 
