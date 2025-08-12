@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software Developer focused on delivering solutions that prioritise user needs and exceptional design<br><p><p/>🎨 Learning about new technologies and frameworks<br><p><p/>💭 Enjoys bringing ideas to life, tackling complex problems and learning through each project</p>
+<p align="left">👨‍💻 Full Stack Developer focused on delivering solutions that prioritise user needs and exceptional design<br><p><p/>🎨 Learning about new technologies and frameworks<br><p><p/>💭 Enjoys bringing ideas to life, tackling complex problems and learning through each project</p>
 
 ###
 
