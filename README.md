@@ -1,29 +1,21 @@
-<h1 align="left">Hey 👋</h1>
+# Hi all! 👋 I'm Megh.
 
+Software Dveloper with a passion for continuous learning.
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 **Education**: 
+  - Bachelor's in Business Administration (Innovation & Sustainability)
+  - Master's in Software Development
 
-###
+- 💼 **Experience**: 
+  - Familiar with **agile methodologies**, **web development frameworks** and **team-based projects**
+  - Created front-end code for various applications, including:
+    - **Learnify** – self-directed learning computer science
+    - **Skia** – A lifestyle app with a Java backend
 
-<p align="left">👨‍💻 Full Stack Developer focused on delivering solutions that prioritise user needs and exceptional design<br><p><p/>🎨 Learning about new technologies and frameworks<br><p><p/>💭 Enjoys bringing ideas to life, tackling complex problems and learning through each project</p>
+- 🌱 **Currently Learning**:
+  - Deepening my understanding of **Data Structures and Algorithms**.
 
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-| JavaScript | React | Python | Java | Spring | Node.js | Android | Figma | Canva |
-|------------|-------|--------|------|--------|---------|---------|-------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/> |
-
-
-###
-
-<div align="left-centre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghd9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+- 🎯 **Tech Stack**
+   - JavaScript,	React, Python,	Java,	Spring Boot,	Node.js,	Android,	Figma
