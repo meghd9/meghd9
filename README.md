@@ -10,11 +10,11 @@ Software Dveloper with a passion for continuous learning.
 - 💼 **Experience**: 
   - Familiar with **agile methodologies**, **web development frameworks** and **team-based projects**
   - Created front-end code for various applications, including:
-    - **Learnify** – self-directed learning computer science
+    - **Learnify** – Self-directed learning computer science
     - **Skia** – A lifestyle app with a Java backend
 
 - 🌱 **Currently Learning**:
-  - Deepening my understanding of **Data Structures and Algorithms**.
+  - Deepening my understanding of **Machine Learning & AI**.
 
 - 🎯 **Tech Stack**
    - JavaScript,	React, Python,	Java,	Spring Boot,	Node.js,	Android,	Figma
