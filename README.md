@@ -5,7 +5,6 @@ Software Dveloper with a passion for continuous learning.
 ## 🚀 About Me
 
 - 🎓 **Education**: 
-  - Bachelor's in Business Administration (Innovation & Sustainability)
   - Master's in Software Development
 
 - 💼 **Experience**: 
